@@ -1,4 +1,4 @@
-# Spotify Clone - Flutter
+# Spotify App - Flutter
 
 A Spotify clone app developed using Flutter, mimicking the real Spotify application's user interface and functionality.
 
